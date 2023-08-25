@@ -51,3 +51,5 @@ python rasperon.py
   
 ## Ek olarak
 Yıldız falan alırsa dahada geliştiririm bu arada
+Sorunlar için discord gelin:
+https://discord.gg/Dsec89AD23
